@@ -29,6 +29,9 @@
   },
   "Portal 2": {
     "status": "Fixable",
-    "footnote": "portal2.exe blocked. Can be fixed by replacing it with hl2.exe from Half-Life 2 or Portal."
+    "footnote": "portal2.exe blocked. Can be fixed by toggling on the patch."
+  },
+  "wallpaper_engine": {
+    "status": "Unblocked"
   }
 }
