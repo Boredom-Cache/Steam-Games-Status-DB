@@ -1,15 +1,15 @@
 {
   "Counter-Strike Global Offensive": {
     "status": "Broken",
-    "asterisk": "CS2 online servers rely on Steam URI path."
+    "footnote": "CS2 online servers rely on Steam URI path."
   },
   "Counter-Strike Source": {
     "status": "Fixable",
-    "asterisk": "Online servers connect inconsistently. Mobile hotspot may fix issue."
+    "footnote": "Online servers connect inconsistently. Mobile hotspot may fix issue."
   },
   "GarrysMod": {
     "status": "Broken",
-    "asterisk": "Game relies on missing Direct3D dll file."
+    "footnote": "Game relies on missing Direct3D dll file."
   },
   "Geometry Dash": {
     "status": "Blocked"
@@ -22,13 +22,13 @@
   },
   "Half-Life Alyx": {
     "status": "Unblocked",
-    "asterisk": "Don't attempt to bring a VR set to class."
+    "footnote": "Don't attempt to bring a VR set to class."
   },
   "Portal": {
     "status": "Unblocked"
   },
   "Portal 2": {
     "status": "Fixable",
-    "asterisk": "portal2.exe blocked. Can be fixed by replacing it with hl2.exe from Half-Life 2 or Portal."
+    "footnote": "portal2.exe blocked. Can be fixed by replacing it with hl2.exe from Half-Life 2 or Portal."
   }
 }
