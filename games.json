@@ -28,7 +28,7 @@
     "status": "Unblocked"
   },
   "Portal 2": {
-    "status": "Fixable"
+    "status": "Fixable",
     "asterisk": "portal2.exe blocked. Can be fixed by replacing it with hl2.exe from Half-Life 2 or Portal."
   }
 }
