@@ -29,7 +29,7 @@
   },
   "Portal 2": {
     "status": "Fixable",
-    "footnote": "portal2.exe blocked. Can be fixed by enabling \"Portal 2 Fix.\""
+    "footnote": "portal2.exe is blocked. This can be bypassed by enabling \"Portal 2 Fix.\""
   },
   "wallpaper_engine": {
     "status": "Unblocked"
