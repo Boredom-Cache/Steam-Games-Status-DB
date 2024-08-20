@@ -1,4 +1,7 @@
 {
+  "Celeste": {
+    "status": "Blocked"
+  },
   "Counter-Strike Global Offensive": {
     "status": "Broken",
     "footnote": "CS2 online servers rely on Steam URI path."
