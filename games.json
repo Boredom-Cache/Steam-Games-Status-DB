@@ -19,7 +19,7 @@
   },
   "Half-Life": {
     "status": "Unblocked",
-    "asterisk": "Requires Steam to be open to verify license."
+    "footnote": "Requires Steam to be open to verify license."
   },
   "Half-Life 2": {
     "status": "Unblocked"
