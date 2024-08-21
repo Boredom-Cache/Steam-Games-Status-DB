@@ -1,0 +1,58 @@
+10:  # Counter-Strike
+  status: Unblocked
+
+50:  # Half-Life: Opposing Force
+  status: Unblocked
+
+70:  # Half-Life
+  status: Unblocked
+  footnote: Requires Steam to be open to verify license.
+
+130:  # Half-Life: Blue Shift
+  status: Unblocked
+
+220:  # Half-Life 2
+  status: Unblocked
+
+240:  # Counter-Strike: Source
+  status: Fixable
+  footnote: Online servers connect inconsistently. Mobile hotspot may fix issue.
+
+380:  # Half-Life 2: Episode One
+  status: Unblocked
+
+400:  # Portal
+  status: Unblocked
+
+420:  # Half-Life 2: Episode Two
+  status: Unblocked
+
+620:  # Portal 2
+  status: Fixable
+  footnote: |
+    portal2.exe is blocked. Bypassed by enabling the fix.
+    
+    Online servers may be blocked.
+    
+    Requires Steam to be open to verify license.
+
+730:  # Counter-Strike 2
+  status: Broken
+  footnote: CS2 online servers rely on Steam URI path.
+
+4000:  # Garry's Mod
+  status: Broken
+  footnote: Game relies on missing Direct3D dll file.
+
+322170:  # Geometry Dash
+  status: Blocked
+
+431960:  # Wallpaper Engine
+  status: Unblocked
+
+504230:  # Celeste
+  status: Blocked
+
+546560:  # Half-Life Alyx
+  status: Unblocked
+  footnote: Do not attempt to bring a VR set to class.
